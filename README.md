@@ -27,18 +27,15 @@ Complex table:
     <tr>
         <td rowspan=2>category 1</td>
         <td>line 2</td>
-        <td><b>plop</b></td>
         <td><i>plip</i></td>
     </tr>
     <tr>
         <td>line 3</td>
-        <td>row</td>
         <td></td>
     </tr>
     <tr>
         <td>category 2</td>
         <td>line 4</td>
-        <td>row</td>
         <td><a href="#section-1">row</a></td>
     </tr>
 </table>
