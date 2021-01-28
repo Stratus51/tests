@@ -1,16 +1,22 @@
-# 1. Section
+# Example
+Table of content
+- [1. Section A](#1-section-a)
+- [2. Section B](#2-section-b)
+    - [2.1 Subsection 1](#1-subsection-1)
+
+## 1. Section A
 
 *Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
 pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
 
-# 2. Section
+## 2. Section B
 
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
 fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.**
 
-## 2.1 Subsection
+### 2.1 Subsection 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
@@ -20,7 +26,7 @@ Simple table:
 | A              | B               | C      |
 |----------------|-----------------|--------|
 | 1              | *3*             | **5**  |
-| 2              | [4](#section-2) | 6      |
+| 2              | [4](#2-section-b) | 6      |
 
 Complex table:
 <table>
@@ -39,6 +45,6 @@ Complex table:
         <td>category 2</td>
         <td>line 4</td>
         <td>row</td>
-        <td><a href="#section-1">row</a></td>
+        <td><a href="#1-section-a">row</a></td>
     </tr>
 </table>
