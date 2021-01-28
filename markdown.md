@@ -2,7 +2,7 @@
 Table of content
 - [1. Section A](#1-section-a)
 - [2. Section B](#2-section-b)
-    - [2.1 Subsection 1](#1-subsection-1)
+    - [2.1 Subsection 1](#21-subsection-1)
 
 ## 1. Section A
 
