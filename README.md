@@ -19,7 +19,7 @@ pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui offi
 Simple table:
 | A              | B               | C      |
 |----------------|-----------------|--------|
-| 1              | *3*             | **5**  |
+| 4              | *5*             | **6**  |
 | 2              | [4](#section-2) | 6      |
 
 Complex table:
