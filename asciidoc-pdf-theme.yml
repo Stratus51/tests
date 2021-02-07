@@ -1,0 +1,9 @@
+extends: default
+
+header:
+  height: 15mm
+  recto: &header
+    left-content: '{document-title}'
+    right-content: 'Copyright © 2020 DASH7 Alliance Confidential'
+  verso: *header
+
