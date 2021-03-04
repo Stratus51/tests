@@ -31,7 +31,7 @@ Simple table:
 
 Complex table:
 |===========================================
-.2+| Category 1  | line 2 | **plop** | __plip__
-|                  line 3 | row      |
-| Category 2     | row    |          | <<section-a,row>>
+.2+| Category 1  | line 2 | __plip__
+|                  line 3 |
+| Category 2     | row    | <<section-a,row>>
 |============================================
