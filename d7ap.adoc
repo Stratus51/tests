@@ -72,6 +72,7 @@ Backgroud frames are of fixed length as defined in xref:table:dll-frame-bg[].
 |1 byte
 |2 bytes
 |2 bytes
+
 |
 |===
 
